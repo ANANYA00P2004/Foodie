@@ -277,6 +277,42 @@ const AdminDashboard = () => {
           <FoodCard foodType="Snacks" iconClass="snacks" />
         </div>
       </div>
+      <div className="summary-section">
+  <h2 className="summary-title">Order Summary</h2>
+  <div className="summary-table-container">
+    <table className="summary-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Booking Time</th>
+          <th>Items</th>
+          <th>Total Amount (₹)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {bookings.length === 0 ? (
+          <tr><td colSpan="5">No bookings available</td></tr>
+        ) : (
+          bookings.map(booking => (
+            <tr key={booking.id}>
+              <td>{booking.userId || 'N/A'}</td>
+              <td>{booking.userEmail}</td>
+              <td>{booking.bookingDate.toLocaleString()}</td>
+              <td>
+                {booking.items.map((item, index) => (
+                  <div key={index}>{item.name} x{item.quantity}</div>
+                ))}
+              </td>
+              <td>{booking.totalAmount}</td>
+            </tr>
+          ))
+        )}
+      </tbody>
+    </table>
+  </div>
+</div>
+
     </div>
   );
 };
