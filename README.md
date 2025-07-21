@@ -24,6 +24,7 @@ A modern web application that simplifies the food ordering process in canteens, 
 
 ### 📊 Order Summary:
 - Displays student name, email, time, ordered items, and total amount
+- Order notifications, if ready
 
 ## 🔥 Firebase Integration
 
@@ -70,8 +71,7 @@ Feel free to fork the project and raise pull requests to enhance features like:
 - Search/filter in order dashboard
 - Admin analytics
 - Cancel/Edit orders functionality
-- Order notifications
-
+  
 ## 🌐 Deployment
 
 You can deploy the app on [Firebase Hosting](https://firebase.google.com/docs/hosting) or [Netlify](https://www.netlify.com/).  
@@ -82,7 +82,3 @@ firebase login
 firebase init
 firebase deploy
 ```
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
