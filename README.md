@@ -7,7 +7,7 @@ A modern web application that simplifies the food ordering process in canteens, 
 
 - **Frontend**: React.js  
 - **Database & Auth**: Firebase (Firestore, Authentication)  
-- **Styling**: CSS (No Tailwind, No Express/Node)
+- **Styling**: CSS
 
 ## 🚀 Features
 
