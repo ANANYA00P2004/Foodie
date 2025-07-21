@@ -36,7 +36,14 @@ A modern web application that simplifies the food ordering process in canteens, 
 
 ## 📸 Screenshots
 
-_Add screenshots of student dashboard, admin panel, and order table here._
+![ee9d167c1f254968bd61f03c91971fbf](https://github.com/user-attachments/assets/397aa0f6-296d-4a4c-bd05-d56707dc7562)
+![e398b6a7b4ad44c797c9e357cb55a793](https://github.com/user-attachments/assets/d3313b79-e3b0-431b-b2ef-8aaa8bae37b7)
+![0fb2e0558ae7454299e9ad8f9f764b7c](https://github.com/user-attachments/assets/942b19c5-499b-4924-a741-6854f87adf87)
+![acd637b914f9454abf4e6dd1338894ef](https://github.com/user-attachments/assets/05f6462e-b604-430f-84e6-7c42ddedf465)
+![bb4aae33b7de4ed49c00fa99c9e0d8c0](https://github.com/user-attachments/assets/3cdaaf39-fff0-496f-b2b8-cefcdd289607)
+![c01f4eb51bb34fdba644187f619d43e5](https://github.com/user-attachments/assets/b514bab3-3d07-4385-993e-dfe79ca47138)
+![c01f4eb51bb34fdba644187f619d43e5](https://github.com/user-attachments/assets/2ac88475-d191-4770-8573-9d63fe46c290)
+
 
 ## 📦 Installation & Setup
 
