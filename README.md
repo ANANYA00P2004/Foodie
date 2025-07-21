@@ -43,7 +43,7 @@ A modern web application that simplifies the food ordering process in canteens, 
 ![bb4aae33b7de4ed49c00fa99c9e0d8c0](https://github.com/user-attachments/assets/3cdaaf39-fff0-496f-b2b8-cefcdd289607)
 ![c01f4eb51bb34fdba644187f619d43e5](https://github.com/user-attachments/assets/b514bab3-3d07-4385-993e-dfe79ca47138)
 ![c01f4eb51bb34fdba644187f619d43e5](https://github.com/user-attachments/assets/2ac88475-d191-4770-8573-9d63fe46c290)
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f91cf13-f4c7-4e60-b736-d918c3f93c95" />
 
 ## 📦 Installation & Setup
 
