@@ -63,7 +63,7 @@ _Add screenshots of student dashboard, admin panel, and order table here._
 ## 📌 Notes
 
 - Admin credentials are currently hardcoded for demo/testing.
-- This project **does not use** Express or Node.js — it is a purely client-side React + Firebase app.
+- It is a purely client-side React + Firebase app.
 
 ## 🤝 Contributing
 
