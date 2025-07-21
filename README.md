@@ -49,8 +49,8 @@ A modern web application that simplifies the food ordering process in canteens, 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/smart-canteen-ordering.git
-   cd smart-canteen-ordering
+   git clone https://github.com/your-username/foodie.git
+   cd foodie
    ```
 
 2. Install dependencies:
